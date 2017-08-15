@@ -20,6 +20,15 @@ Simply assign it to an input element assigned with `ng-model`, and `ultra-valida
 `ultra-validate` automatically shows localized error messages and a cool small badge with the number of errors.
 Validations are fully customizable and validation handling can be fully customized (See [Validation Handling](#handling)).
 
+##### Disclaimer
+`ultra-validate` was initially created as part of a project I am working on.
+Dispite of time limits I decided to share it with the community and took the effort of documenting it in this readme.md file.
+Therefore, docs might be incomplete, it does not have unit testing, and it is given as-is.
+I will do my best to follow issues and improve the directive and help with questions.
+You are free to use `Zen tools` and `ultra-validate` in anyway you want.
+
+Let the magic begin! :)
+
 <a name="dependencies"></a>
 ### Dependencies
 
