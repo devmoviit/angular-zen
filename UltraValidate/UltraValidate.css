@@ -1,0 +1,15 @@
+﻿ultra-validate-icon {
+    position: absolute;
+    right: 0;
+    top: -5px;
+    z-index: 9999;
+}
+
+    ultra-validate-icon span.badge.ng-hide-add   ,
+    ultra-validate-icon span.badge.ng-hide-remove {
+        animation: 1s rubberBand ease-out;
+    }
+
+    ultra-validate-icon span.badge.ng-hide-remove {
+        animation-direction: reverse;
+    }
